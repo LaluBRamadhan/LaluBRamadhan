@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-4B918MLaS9o/XXBFXsZ1uMI/AAAAAAAAL7M/Pk4cPjGsZFwczYiMzUQmUJ7b3p9kyvtZgCLcBGAs/s1600/image3.png)
 <h1 align="center">Hi, I'm Lalu Bagoes Putra Ramadhan</h1>
-<h3 align="center">I'm passionate on Android Developer from Lombok, Indonesia</h3>
+<h3 align="center">I am a passionate Android developer based in Lombok, Indonesia.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalubramadhan&label=Profile%20views&color=4260f5&style=flat" alt="lalubramadhan" /> </p>
 
 
