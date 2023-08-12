@@ -1,10 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-4B918MLaS9o/XXBFXsZ1uMI/AAAAAAAAL7M/Pk4cPjGsZFwczYiMzUQmUJ7b3p9kyvtZgCLcBGAs/s1600/image3.png)]
+[![MasterHead](https://1.bp.blogspot.com/-4B918MLaS9o/XXBFXsZ1uMI/AAAAAAAAL7M/Pk4cPjGsZFwczYiMzUQmUJ7b3p9kyvtZgCLcBGAs/s1600/image3.png)
 <h1 align="center">Hi, I'm Lalu Bagoes Putra Ramadhan</h1>
 <h3 align="center">I'm passionate on Android Developer from Lombok, Indonesia</h3>
-img align="right" alt="Coding" width="400" src=""
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalubramadhan&label=Profile%20views&color=4260f5&style=flat" alt="lalubramadhan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalubramadhan" alt="lalubramadhan" /></a> </p>
 
 - 🌱 I’m currently learning **Kotlin with Jetpack Compose**
 
