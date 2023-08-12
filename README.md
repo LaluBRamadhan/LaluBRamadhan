@@ -3,7 +3,8 @@
 <h3 align="center">I am a passionate Android developer based in Lombok, Indonesia.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalubramadhan&label=Profile%20views&color=4260f5&style=flat" alt="lalubramadhan" /> </p>
 
-
+- 📝 I'm currently study on Ahmad Dahlan University
+  
 - 🌱 I’m currently learning **Kotlin with Jetpack Compose**
 
 - 📫 How to reach me **lalubagoes1@gmail.com**
