@@ -5,7 +5,7 @@
 
 - 📝 I'm currently study on **Ahmad Dahlan University**
   
-- 🌱 I’m currently learning **Kotlin with Jetpack Compose**
+- 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **lalubagoes1@gmail.com**
 
