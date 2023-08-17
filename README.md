@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LaluBRamadhan&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme?quote=e)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LaluBRamadhan&icon=6&color=0)](https://visitcount.itsvg.in)
