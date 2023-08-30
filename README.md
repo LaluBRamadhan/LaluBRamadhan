@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m an undergraduate Computer Science student at Ahmad Dahlan University<br>🤝 I’m looking for help with Android developer.<br>🌱 I’m currently learning Kotlin<br>💬 Reach me at lalubagoes515@gmail.com.<br>⚡ Fun fact : doyan main di alam.
+🔭 I’m an undergraduate Computer Science student at Ahmad Dahlan University<br>🤝 I’m looking for help with Android developer.<br>🌱 I’m currently learning Kotlin<br>💬 Reach me at lalubagoes515@gmail.com.<br>
 
 
 ## 🌐 Socials:
